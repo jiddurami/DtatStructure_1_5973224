@@ -21,7 +21,5 @@ int main()
         printf("%d", (ptr >> i) & 1);  // 22번 비트부터 0번 비트까지 출력
     }
     printf("\n");//줄바꿈
-
-
     return 0;  // 프로그램 종료
 }
